@@ -6,6 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>폼생성_76p</title>
 </head>
+
+
 <body>
 <!-- view단에서 보내주는 모든 파라미터는 스트링으로 받는다. -->
 <form action="/jsp/ch03/viewParameter.jsp" method="get">
